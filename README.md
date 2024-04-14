@@ -10,7 +10,7 @@
 Ollama is an AI model management tool that allows users to install and use custom large language models locally.
 
 This project aims to:
-* [x] Create a phone service that will utilize Ollama and Interactive Voice Response (IVR) to chat with callers! 
+* [ ] Create a phone service that will utilize Ollama and Interactive Voice Response (IVR) to chat with callers! 
   * [ ] Containerization with Docker
   * [ ] Administrator Role Compatible
 * [ ] Allow others to create their own models personalized for their own purposes!
