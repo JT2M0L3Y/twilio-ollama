@@ -19,6 +19,6 @@ This project aims to:
 
 ## Inspiration
 I give thanks to Jonathan Smoley and Kevin Dang for inspiring me to do this project.
-It's the dedication and the project they've put into their Ollama project that encourages me to try something new.
+It's the dedication and the effort they've put into their Ollama project that encourages me to try something new.
 
 You may view their project repository <a href="https://github.com/kevinthedang/discord-ollama/">here</a>.
