@@ -1,6 +1,6 @@
 <div align="center">
     <p><a href="#"><a href="https://ollama.ai/"><img alt="ollama" src="./img/ollama-icon.png" width="200px" /></a><img alt="+" src="./img/grey-plus.png" width="100px" /></a><a href="https://twilio.com/"><img alt="twilio" src="./img/twilio-icon.png" width="200px" /></a></p>
-    <h1>Discord Ollama Integration</h1>
+    <h1>Twilio Ollama Integration</h1>
     <h3><a href="#"></a>Ollama as your Phone Chatbot</h3>
 </div>
 
